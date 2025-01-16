@@ -1,6 +1,7 @@
 # 💫 About Me:
+<div align="center">
 <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100px" align="center" />  
-
+</div>
 ---
 
 "I am a Solo Programmer passionate about creating efficient and scalable solutions."  
