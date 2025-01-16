@@ -37,8 +37,6 @@ Feel free to reach out or collaborate on exciting projects!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XNS-ivy&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNS-ivy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=XNS-ivy&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
