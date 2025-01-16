@@ -38,6 +38,8 @@ Feel free to reach out or collaborate on exciting projects!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XNS-ivy&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNS-ivy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XNS-ivy&title=Profile%20Views"/>
 </div>
 
 ---
