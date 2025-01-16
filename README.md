@@ -24,7 +24,7 @@ Feel free to reach out or collaborate on exciting projects!
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XNS-ivy&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XNS-ivy&theme=vue-dark" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNS-ivy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 # 🛠️ Projects:
