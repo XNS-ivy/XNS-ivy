@@ -46,7 +46,12 @@ Feel free to reach out or collaborate on exciting projects!
 - 🚀 Published **3+ open-source projects** in 2024.
 - 💬 Actively contributing to programming communities.
 
-![Profile View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XNS-ivy&title=Profile%20Views)
+![GitHub Contributions](https://komarev.com/ghpvc/?username=XNS-ivy&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/XNS-ivy?style=social)
+![GitHub Repos](https://img.shields.io/badge/Repositories-Count-informational)
+![License](https://img.shields.io/github/license/XNS-ivy/XNS-ivy?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=XNS-ivy&color=green)
+
 ---
 
 # 🛠️ Projects:
