@@ -35,7 +35,7 @@ Feel free to reach out or collaborate on exciting projects!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XNS-ivy&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XNS-ivy&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=XNS-ivy&theme=vue-dark&date_format=j%20M%5B%20Y%5D&mode=weekly?https://git.io/streak-stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNS-ivy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
