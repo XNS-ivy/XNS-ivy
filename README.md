@@ -1,5 +1,6 @@
 <div align="center">
- Hey my name is ivy! and anyone visit this page, welcome to my github profile!
+ <h1>Hey my name is ivy!</h1>
+ <p>And anyone visit this page, welcome to my github profile!</p>
 </div>
 
 
