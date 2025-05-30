@@ -65,7 +65,6 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XNS-ivy&label=Profile%20Views&color=ff69b4&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/XNS-ivy?style=social"/>
-  <img src="https://img.shields.io/github/repos-count/XNS-ivy?color=blueviolet">
 </p>
 
 # 🛠️ Current Projects
@@ -73,3 +72,4 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 - 🎨 Experimenting with **Vite + Vue** for interactive dashboards.
 - 🔧 Exploring automation tools to wrap websites into mobile-like interfaces.
 - 🌸 [ShizukuBot](https://github.com/XNS-ivy/Shizuku-NeetChan) — modular WhatsApp bot using Baileys.
+- 📦 Public Repos: 0
