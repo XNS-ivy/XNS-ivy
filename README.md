@@ -3,7 +3,7 @@
  <p>And anyone visit this page, welcome to my github profile!</p>
 </div>
 
-# 🌸 About Me
+# 🌸 About Me 🌸
 
 Hi there! I'm a WhatsApp Bot Developer who loves building efficient, scalable, and fun bots 🤖  
 I focus on clean code, lightweight performance, and delivering the best chat experience possible.
