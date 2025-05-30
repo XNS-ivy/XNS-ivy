@@ -27,9 +27,11 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
-<div>
+<br>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNS-ivy&layout=compact&theme=jolly&hide_border=true" width="45%"/>
 </div>
+
 # 🛠️ Tools & Frameworks
 
 <p align="center">
@@ -47,6 +49,7 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
   </a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=XNS-ivy&show_icons=true&theme=jolly&hide_border=true" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=jolly&utcOffset=7" width="60%"/>
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XNS-ivy&theme=jolly" width="90%"/>
 </div>
