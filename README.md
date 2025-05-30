@@ -65,7 +65,7 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XNS-ivy&label=Profile%20Views&color=ff69b4&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/XNS-ivy?style=social"/>
-  <img src="https://img.shields.io/github/repos/XNS-ivy?color=blueviolet&style=flat-square" alt="Repositories" />
+  <img src="https://img.shields.io/github/search?query=user:XNS-ivy+type:public&label=Public%20Repos&color=blueviolet" alt="Public Repos"/>
 </p>
 
 # 🛠️ Current Projects
