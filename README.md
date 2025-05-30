@@ -45,13 +45,13 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=XNS-ivy&theme=jolly&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=XNS-ivy&theme=jolly&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" width="90%"/>
   </a>
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=XNS-ivy&show_icons=true&theme=jolly&hide_border=true" width="45%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=jolly&utcOffset=7" width="60%"/>
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XNS-ivy&theme=jolly" width="90%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=2077&utcOffset=7" width="45%"/>
+  <br/><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XNS-ivy&theme=2077" width="90%"/>
 </div>
 
 ---
