@@ -78,8 +78,8 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 
 <table>
   <tr>
-    <td>
-      <img src="./assets/a64d0956b0d40219646970e0878c4046_rounded.png" alt="Takanashi Hoshino"/>
+    <td width="130" height="130">
+      <img src="./assets/a64d0956b0d40219646970e0878c4046_rounded.png" alt="Takanashi Hoshino" width="120" height="120"/>
     </td>
     <td>
       <p>
