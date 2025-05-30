@@ -74,12 +74,17 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 - 🌸 [ShizukuBot](https://github.com/XNS-ivy/Shizuku-NeetChan) modular WhatsApp bot using Baileys.
 - 📦 Public Repos: 0
 
-# Extras 🌸
+### Extras 🌸
 
-<div style="display: flex; align-items: center; gap: 20px; max-width: 600px; margin: 20px auto;">
-  <img src="./assets/a64d0956b0d40219646970e0878c4046.png" alt="Takanashi Hoshino" 
-       style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; display: block;"/>
-  <p style="font-size: 16px; line-height: 1.4; color: #555; margin: 0;">
-    Takanashi Hoshino is my favorite character on Blue Archive. She is cute, cheerful but sometimes she gets too serious in some conditions.
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="130">
+      <img src="./assets/a64d0956b0d40219646970e0878c4046_rounded.png" alt="Takanashi Hoshino" width="120" height="120"/>
+    </td>
+    <td>
+      <p>
+        <strong>Takanashi Hoshino</strong> is my favorite character on Blue Archive. She is cute, cheerful, but sometimes she gets too serious in some conditions.
+      </p>
+    </td>
+  </tr>
+</table>
