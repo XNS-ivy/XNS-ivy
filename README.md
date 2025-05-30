@@ -15,11 +15,10 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 - 🚀 **Frequently** working as a WhatsApp Bot Developer  
 - 💻 Use **JavaScript** as my main language  
 - 🌱 Love building **frontends** using **Vite.js** and **Vue.js**  
-- 🎯 Focused on automation, clean UI, and logic-driven design  
-- 🧪 Sometimes I explore experimental projects involving AI or supernatural logic
+- 🎯 Focused on automation, **clean UI**, and **logic-driven** design  
+- 🧪 Sometimes I explore experimental projects involving **AI** or **supernatural logic**
 
 # 💻 My Stack
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -33,13 +32,9 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
 </p>
 
-# 📊 GitHub Stats:
+# 📊 My GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XNS-ivy&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=XNS-ivy&theme=vue-dark&date_format=j%20M%5B%20Y%5D&mode=weekly?https://git.io/streak-stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNS-ivy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XNS-ivy&theme=jolly&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ---
