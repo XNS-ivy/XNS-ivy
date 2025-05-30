@@ -1,10 +1,10 @@
-
+<div align="center">
  `Hey my name is ivy! and anyone visit this page, welcome to my github profile!`
-
+</div>
 ---
 
 # 🌐 Connect with Me:
-Feel free to reach out or collaborate on exciting projects!
+
 
 ---
 
