@@ -71,5 +71,5 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 - 🛰️ Scaling lightweight **WhatsApp bots** with MongoDB & Baileys.
 - 🎨 Experimenting with **Vite + Vue** for interactive dashboards.
 - 🔧 Exploring automation tools to wrap websites into mobile-like interfaces.
-- 🌸 [ShizukuBot](https://github.com/XNS-ivy/Shizuku-NeetChan) — modular WhatsApp bot using Baileys.
+- 🌸 [ShizukuBot](https://github.com/XNS-ivy/Shizuku-NeetChan) modular WhatsApp bot using Baileys.
 - 📦 Public Repos: 0
