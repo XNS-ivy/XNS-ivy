@@ -74,7 +74,7 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 - 🌸 [ShizukuBot](https://github.com/XNS-ivy/Shizuku-NeetChan) modular WhatsApp bot using Baileys.
 - 📦 Public Repos: 0
 
-<div style="display: flex; align-items: center; gap: 20px; max-width: 600px; margin: auto;">
+<div style="display: flex; align-items: center; gap: 20px; max-width: 600px; margin: auto; align: center;">
   <img src="./assets/a64d0956b0d40219646970e0878c4046.png" alt="Takanashi Hoshino" 
        style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;"/>
   <p style="font-size: 16px; line-height: 1.4; color: #555; margin: 0;">
