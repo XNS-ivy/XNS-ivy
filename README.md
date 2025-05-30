@@ -56,19 +56,20 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 
 ---
 
-# 🏆 Achievements:
-- 🚀 Published **3+ open-source projects** in 2024.
-- 💬 Actively contributing to programming communities.
+# 🏆 Achievements
+- 🌟 Created and maintained **3+ open-source projects** in 2024.
+- 🤖 Built multiple **WhatsApp bots** used by small communities.
+- 💬 Active contributor in bot developer groups on Discord & GitHub.
+- 📈 Achieved consistent contribution streaks & project growth.
 
-![GitHub Contributions](https://komarev.com/ghpvc/?username=XNS-ivy&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/XNS-ivy?style=social)
-![GitHub Repos](https://img.shields.io/badge/Repositories-Count-informational)
-![License](https://img.shields.io/github/license/XNS-ivy/XNS-ivy?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=XNS-ivy&color=green)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XNS-ivy&label=Profile%20Views&color=ff69b4&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/XNS-ivy?style=social"/>
+  <img src="https://img.shields.io/github/repo-count/XNS-ivy?color=blueviolet"/>
+</p>
 
----
-
-# 🛠️ Projects:
-- Building scalable serverless APIs.
-- Experimenting with Vite.js for front-end frameworks.
-- Developing a WhatsApp bot with MongoDB integration.
+# 🛠️ Current Projects
+- 🛰️ Scaling lightweight **WhatsApp bots** with MongoDB & Baileys.
+- 🎨 Experimenting with **Vite + Vue** for interactive dashboards.
+- 🔧 Exploring automation tools to wrap websites into mobile-like interfaces.
+- 🌸 [ShizukuBot](https://github.com/XNS-ivy/Shizuku-NeetChan) — modular WhatsApp bot using Baileys.
