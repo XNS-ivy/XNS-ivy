@@ -6,12 +6,17 @@
 # 🌸 About Me 🌸
 
 Hi there! I'm a **WhatsApp Bot Developer** who loves building **efficient**, **scalable**, and **fun** bots 🤖  
-I focus on clean code, lightweight performance, and delivering the best chat experience possible.
+I focus on clean code, lightweight performance, and delivering the best chat experience possible.  
 I believe automation should be both smart and elegant ✨  
 I also enjoy building tiny side projects like wrapping websites into something more useful or beautiful 🌐🎀
 
-- 🚀 Frequently Whatsapp Bot Developer
-- 
+---
+
+- 🚀 **Frequently** working as a WhatsApp Bot Developer  
+- 💻 Use **JavaScript** as my main language  
+- 🌱 Love building **frontends** using **Vite.js** and **Vue.js**  
+- 🎯 Focused on automation, clean UI, and logic-driven design  
+- 🧪 Sometimes I explore experimental projects involving AI or supernatural logic
 
 # 💻 Tech Stack:
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
