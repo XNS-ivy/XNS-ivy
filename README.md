@@ -38,8 +38,16 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 </p>
 
 # 📊 My GitHub Stats:
+
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XNS-ivy&theme=jolly&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=XNS-ivy&theme=jolly&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XNS-ivy&show_icons=true&theme=jolly&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNS-ivy&layout=compact&theme=jolly&hide_border=true" width="45%"/>
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XNS-ivy&theme=discord_old_blurple" width="90%"/>
 </div>
 
 ---
