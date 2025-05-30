@@ -2,7 +2,6 @@
  <h1 style="color: #ff69b4;">Hi I'm ivy! 🌷 </h1>
  <p>And anyone visit this page, welcome to my github profile!</p>
 </div>
----
 
 # 🌸 About Me
 ---
