@@ -49,9 +49,9 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
   </a>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=XNS-ivy&show_icons=true&theme=jolly&hide_border=true" width="45%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=2077&utcOffset=7" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=jolly&utcOffset=7" width="45%"/>
   <br/><br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XNS-ivy&theme=2077" width="90%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XNS-ivy&theme=jolly" width="90%"/>
 </div>
 
 ---
