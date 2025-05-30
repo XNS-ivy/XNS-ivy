@@ -1,11 +1,16 @@
 <div align="center">
- <h1 style="color: #ff69b4;">Hey I'm ivy!</h1>
+ <h1 style="color: #ff69b4;">Hi I'm ivy! 🌷 </h1>
  <p>And anyone visit this page, welcome to my github profile!</p>
 </div>
+---
 
+# 🌸 About Me
+---
 
-# 🌐 Connect with Me:
+Hi there! I'm a WhatsApp Bot Developer who loves building efficient, scalable, and fun bots 🤖  
+I focus on clean code, lightweight performance, and giving users the best chat experience possible.
 
+I believe automation should be both smart and elegant ✨
 
 ---
 
