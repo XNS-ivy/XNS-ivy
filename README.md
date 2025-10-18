@@ -71,8 +71,6 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
 - 🛰️ Scaling lightweight **WhatsApp bots** with MongoDB & Baileys.
 - 🎨 Experimenting with **Vite + Vue** for interactive dashboards.
 - 🔧 Exploring automation tools to wrap websites into mobile-like interfaces.
-- 🌸 [ShizukuBot](https://github.com/XNS-ivy/Shizuku-NeetChan) modular WhatsApp bot using Baileys.
-- 📦 Public Repos: 0
 
 ### Extras 🌸
 
@@ -83,7 +81,7 @@ I also enjoy building tiny side projects like **wrapping websites** into somethi
     </td>
     <td>
       <p>
-        <strong>Takanashi Hoshino</strong> is my favorite character on Blue Archive. She is cute, cheerful, but sometimes she gets too serious in some conditions.
+        <strong>Takanashi Hoshino</strong> is my favorite character on Blue Archive. She is cute, cheerful, but sometimes she gets too serious in certain conditions.
       </p>
     </td>
   </tr>
